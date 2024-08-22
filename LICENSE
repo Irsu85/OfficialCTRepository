@@ -1,0 +1,25 @@
+Irsu's Custom Track License
+
+1. Definitions
+  You: The person reading this license
+  Repository: The thing this file is being published in and is licensed under
+  Content: Any file published on this repository or Tockdom
+  Custom Track, CT: A file that can be loaded into Mario Kart Wii, made by Nintendo and published in 2008, generally in SZS format
+  Assets: Any file that is needed to generate the custom track with a BRRES editor and WSZST
+  Model: Any .obj, .blend or .kcl file that is needed to make the Custom Track
+  Distribution, distro, CT Distribution, or any similar term: Any type of Content that has multiple Custom Tracks bundled together, with optionally other type of content added as well
+
+2. Terms of use
+  a. Irsu hereby grants you the right to use and modify the content published in this repository, free of any charge, under the following restrictions
+    1. Any modifications must be done on a Github Fork marked as public of the repository
+    2. Any modifications must have a Github Pull Request sent to the original repository's main branch, with Irsu85 and ISwearChris selected as reviewers
+    3. Any modifications will only be added after testing by Irsu85 and other people who Irsu85 will decide on on a case by case basis. Irsu85 will always have the final say about testing results
+    4. After a Github Pull Request gets accepted, either Irsu85 or ISwearChris will add the track to the relevant page on Tockdom
+    5. When you submit an update, you agree to share all copyright over that update with Irsu85. The update will be published under this license and co-owned by you and Irsu85, with full rights to use, modify, and distribute the update.
+    6. If you use the content in a CT distribution, you must add a link to the distro on the Custom Track Distributions section of the relevant Tockdom page, which has to stay on there until you remove the track from the distribution
+
+3. Warranty
+  1. The Content is published AS-IS, with no warranty whatsoever. Neither Irsu85 nor ISwearChris will be responsable for any damage to your Wii, WiiU or Dolphin Emulator instance when using the Content provided, to the maximum extend allowed by law. Damages include both direct and indirect or consequential damages
+
+In case of questions or exception request, contact the original copyright holder at CTLicense@iren.be
+  
