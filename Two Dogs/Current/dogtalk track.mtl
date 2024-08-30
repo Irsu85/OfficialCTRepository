@@ -1,0 +1,49 @@
+# 
+# Wavefront material file
+# Created with Kaydara FBX
+# 
+
+newmtl City_road
+map_Kd Cityroad1.png
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.200000 0.200000 0.200000
+illum 2
+Ns 25.000000
+Tr 1.000000
+
+newmtl Fencewall
+map_Kd fence.png
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.200000 0.200000 0.200000
+illum 2
+Ns 25.000000
+Tr 1.000000
+
+newmtl sidewalk
+map_Kd GoodSidewalk.png
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.200000 0.200000 0.200000
+illum 2
+Ns 25.000000
+Tr 1.000000
+
+newmtl Grass
+map_Kd grass.png
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.200000 0.200000 0.200000
+illum 2
+Ns 25.000000
+Tr 1.000000
+
+newmtl Farm_road
+map_Kd Farmroad.png
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.200000 0.200000 0.200000
+illum 2
+Ns 25.000000
+Tr 1.000000
